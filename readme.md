@@ -1,25 +1,22 @@
-## Learn Node Starter Files
+![Now that's Delicious](/public/images/now-thats-delicious.jpg "Now that's Delicious")
 
-## Sample Data
+# Now that's Delicious
 
-To load sample data, run the following command in your terminal:
+A full stack restaurant guide application which users can search, geolocate, review and curate their favourite restaurants from around the world.
 
-```bash
-npm run sample
-```
+## Built With
 
-If you have previously loaded in this data, you can wipe your database 100% clean with:
+- [Express](https://expressjs.com/)
+- [MongoDB](https://www.mongodb.com/)
+- [Mongoose](https://mongoosejs.com/)
+- [Google Map](https://developers.google.com/maps/documentation)
+- [Pug Template](https://pugjs.org/)
+- [Passport.js](http://www.passportjs.org/)
 
-```bash
-npm run blowitallaway
-```
+## Deploy To
 
-That will populate 16 stores with 3 authors and 41 reviews. The logins for the authors are as follows:
+- [Heroku](https://www.heroku.com/)
 
-|Name|Email (login)|Password|
-|---|---|---|
-|Wes Bos|wes@example.com|wes|
-|Debbie Downer|debbie@example.com|debbie|
-|Beau|beau@example.com|beau|
+## Acknowledgment
 
-
+- Training course provided by [Wes Bos](https://wesbos.com/)
