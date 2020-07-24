@@ -1,6 +1,8 @@
 ![Now that's Delicious](/public/images/now-thats-delicious.jpg "Now that's Delicious")
 
-# Now that's Delicious
+# [Now that's Delicious](https://now-thats-delicious-encore.herokuapp.com/)
+
+(refresh demo if error as free dynos in Heroku sleep after 30-minute inactive period)
 
 A full stack restaurant guide application which users can search, geolocate, review and curate their favourite restaurants from around the world.
 
